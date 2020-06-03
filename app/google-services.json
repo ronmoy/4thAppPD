@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "394660704337",
+    "firebase_url": "https://thapp-8143d.firebaseio.com",
+    "project_id": "thapp-8143d",
+    "storage_bucket": "thapp-8143d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394660704337:android:95ec70289b6a98dc040870",
+        "android_client_info": {
+          "package_name": "com.myapplicationdev.android.a4thapppd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394660704337-maee9oqbjv7doi1gl98fooq019v6n71k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcF_f1fBLIIfawGSe5h_cpAQLE62X41Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394660704337-maee9oqbjv7doi1gl98fooq019v6n71k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
